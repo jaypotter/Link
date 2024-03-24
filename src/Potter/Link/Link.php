@@ -9,7 +9,7 @@ use \Potter\Aware\{
     AwareTrait
 };
 
-class Link extends AbstractLink implements AwareInterface
+final class Link extends AbstractLink implements AwareInterface
 {
     use AwareTrait, LinkTrait;
     
