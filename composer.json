@@ -4,6 +4,7 @@
     "type": "library",
     "require": {
         "php": "^8.3",
+        "potter/aware": "dev-main",
         "potter/link-interface": "dev-main",
         "potter/link-trait": "dev-main"
     },
