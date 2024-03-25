@@ -7,7 +7,8 @@
         "potter/aware": "dev-main",
         "potter/link-interface": "dev-main",
         "potter/link-trait": "dev-main",
-        "potter/evolvable-link": "dev-main"
+        "potter/evolvable-link": "dev-main",
+        "potter/link-provider": "dev-main"
     },
     "license": "MIT",
     "autoload": {
