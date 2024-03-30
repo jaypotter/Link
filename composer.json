@@ -10,6 +10,10 @@
         "potter/evolvable-link": "dev-main",
         "potter/link-provider": "dev-main"
     },
+    "suggest": {
+        "potter/components": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
